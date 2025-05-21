@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\bin\Debug\net9.0-windows\shopinventory.exe
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\bin\Debug\net9.0-windows\shopinventory.deps.json
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\bin\Debug\net9.0-windows\shopinventory.runtimeconfig.json
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\bin\Debug\net9.0-windows\shopinventory.dll
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\bin\Debug\net9.0-windows\shopinventory.pdb
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.Form1.resources
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.AssemblyInfo.vb
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.dll
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\refint\shopinventory.dll
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.pdb
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\ref\shopinventory.dll
+C:\Users\Lenovo\Desktop\db project\shopinventory\shopinventory\obj\Debug\net9.0-windows\shopinventory.main.resources
